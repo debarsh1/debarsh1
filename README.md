@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debarshi.zz) 
+
 📧 Email: noxivu@gmail.com
+
 🎮 Play Store: https://play.google.com/store/apps/dev?id=6499807825067689582
 
 # 💻 Tech Stack:
